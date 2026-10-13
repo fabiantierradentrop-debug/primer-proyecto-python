@@ -1,3 +1,4 @@
+# primer-proyecto-python
 Este repositorio contiene mis primeros ejercicios de análisis de datos con Python y Pandas.
 Objetivos
 - Crear un DataFrame.
@@ -5,4 +6,3 @@ Objetivos
 - Calcular estadísticas básicas.
 - Aprender a documentar un proyecto.
 Herramientas: Python, Pandas y JupyterLab.
-# primer-proyecto-python
